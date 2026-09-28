@@ -1,0 +1,3 @@
+[submodule "gst_expense_scanner"]
+	path = gst_expense_scanner
+	url = https://github.com/Raama0202/gst-expense-scanner.git

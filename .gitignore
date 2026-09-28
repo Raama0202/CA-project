@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.log
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+.DS_Store
+.idea/
+*.jks
+*.keystore
+key.properties
+google-services.json
+.dart_tool/
+build/
